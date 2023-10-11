@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Yifan Feng (冯祎凡)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : ""
   location         : "Beijing, China"
   employer         :
+  lab              : "https://bhe-lab.org/"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Yifan-Feng-23"
@@ -102,7 +103,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
