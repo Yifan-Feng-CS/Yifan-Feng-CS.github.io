@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+Hello！
 
 I'm a forth year undergraduate student from [School of Computer Science and Technology](https://it.xju.edu.cn/), [Xinjiang University](https://www.xju.edu.cn/). My research interest includes federated learning and brain inspired computer audition for medical applications. 
 
