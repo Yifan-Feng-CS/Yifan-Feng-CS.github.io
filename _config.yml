@@ -85,7 +85,6 @@ author:
   bio              : "Do you still remember the dreams of your youth?"
   location         : "Beijing, China"
   employer         :
-  lab              : "https://bhe-lab.org/"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Yifan-Feng-23"
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Yifan-Feng-CS"
   google_plus      :
   keybase          :
   instagram        :
