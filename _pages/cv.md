@@ -11,49 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Urumqi, Xinjiang University, 2020 - 2024
+* M.S. in Beijing, Beijing Institute of Technology, 2024 - 2027 (expected) (Master's Admission Without Entrance Exam)
+#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+Internship Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 2022 - Jun 2024: Visiting Student
+  *[Key Laboratory of Brain Health Intelligent Evaluation and Intervention (BHE), Ministry of Education, P.R. China](https://bhe-lab.org/)
+  * Duties included: Federated learning for medical applications
+  * Supervisor: Prof. [Kun Qian](https://eecsqian.com/) 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
