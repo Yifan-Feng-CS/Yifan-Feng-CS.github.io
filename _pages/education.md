@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Education & Internship"
+permalink: /education/
 author_profile: true
 redirect_from:
   - /resume
@@ -18,7 +18,7 @@ Education
 Internship Experience
 ======
 * Oct 2022 - Jun 2024: Visiting Student
-*[Key Laboratory of Brain Health Intelligent Evaluation and Intervention (BHE), Ministry of Education, P.R. China](https://bhe-lab.org/)
+  * Lab: [Key Laboratory of Brain Health Intelligent Evaluation and Intervention (BHE), Ministry of Education, P.R. China](https://bhe-lab.org/)
   * Duties included: Federated learning for medical applications
   * Supervisor: Prof. [Kun Qian](https://eecsqian.com/) 
 
