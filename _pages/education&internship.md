@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * B.S. in Urumqi, Xinjiang University, 2020 - 2024 
-* M.S. in Beijing, Beijing Institute of Technology, 2024 - 2027 (Master's admission without entrance exam)
+* M.S. in Beijing, Beijing Institute of Technology, 2024 - 2027 (Admission without entrance exam)
 
 
 Internship Experience
