@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Education & Internship"
+    url: /education&internship/
+    
   - title: "Publications"
     url: /publications/
 
@@ -15,8 +18,6 @@ main:
   #- title: "Blog Posts"
     #url: /year-archive/
     
-  - title: "Education & Internship"
-    url: /education&internship/
     
   #- title: "Guide"
     #url: /markdown/
