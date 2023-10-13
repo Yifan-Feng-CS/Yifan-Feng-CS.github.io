@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Urumqi, Xinjiang University, 2020 - 2024
+* B.S. in Urumqi, Xinjiang University, 2020 - 2024 
 * M.S. in Beijing, Beijing Institute of Technology, 2024 - 2027 (Master's Admission Without Entrance Exam)
 
 
