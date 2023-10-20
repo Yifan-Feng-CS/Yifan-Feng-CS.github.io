@@ -9,3 +9,4 @@ author_profile: true
 Impressions on Xinjiang
 ======
 * 
+![](/images/Graphical_Abstract.jpg)
