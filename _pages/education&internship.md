@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Urumqi, [Xinjiang University (XJU)](https://www.xju.edu.cn/), 2020 - 2024
+* B.E. in Urumqi, [Xinjiang University (XJU)](https://www.xju.edu.cn/), 2020 - 2024
   * Cyberspace Security 
 * M.S. in Beijing, [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), 2024 - 2027 (Admission without entrance exam)
   * Intelligent Science and Technology
