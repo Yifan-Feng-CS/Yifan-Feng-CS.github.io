@@ -14,11 +14,12 @@ Education
   * Cyberspace Security 
 * M.S. in Beijing, [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), 2024 - 2027 (Admission without entrance exam)
   * Intelligent Science and Technology
+  * Supervisor: [Prof. Kun Qian (钱昆)](https://eecsqian.com/) 
 
 Internship Experience
 ======
 * Oct 2022 - Jun 2024: Visiting Student
-  * Lab: [Key Laboratory of Brain Health Intelligent Evaluation and Intervention (BHE), Ministry of Education, P.R. China](https://bhe-lab.org/)
+  * Lab: [Key Laboratory of Brain Health Intelligent Evaluation and Intervention (BIT), Ministry of Education, P.R. China](https://bhe-lab.org/)
   * Duties included: Federated learning for medical applications
   * Supervisor: [Prof. Kun Qian (钱昆)](https://eecsqian.com/) 
 
