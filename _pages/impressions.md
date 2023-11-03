@@ -24,3 +24,4 @@ Impressions on Xinjiang University
   ![](/images/boda5.jpeg)
   (3.8, 2023)
 
+* Honghu(红湖) Compass of Xinjiang University
