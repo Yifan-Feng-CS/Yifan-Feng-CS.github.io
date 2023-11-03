@@ -6,9 +6,8 @@ author_profile: true
 
 {% include base_path %}
 
-Impressions on Xinjiang University
-======
-* (1) Boda(博达) Compass of Xinjiang University
+#Impressions on Xinjiang University
+##Boda(博达) Compass of Xinjiang University
   * Boda is taken from Bogda Peak (博格达峰)，which is the highest peak in the eastern part of Tianshan Mountains (天山山脉).
     
   ![](/images/boda4.jpeg)
@@ -24,4 +23,4 @@ Impressions on Xinjiang University
   ![](/images/boda5.jpeg)
   (3.8, 2023)
 
-* (2) Honghu(红湖) Compass of Xinjiang University
+##Honghu(红湖) Compass of Xinjiang University
