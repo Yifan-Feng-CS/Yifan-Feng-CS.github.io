@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-Impressions on Xinjiang
+Impressions on Xinjiang University
 ======
 * 
 ![](/images/Graphical_Abstract.jpg)
