@@ -12,7 +12,7 @@ Education
 ======
 * B.E. in Urumqi, [Xinjiang University (XJU)](https://www.xju.edu.cn/), 2020 - 2024
   * Cyberspace Security 
-* M.S. in Beijing, [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), 2024 - 2027 (Admission without entrance exam)
+* Master Student in Beijing, [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), 2024 - 2027 (Admission without entrance exam)
   * Intelligent Science and Technology
   * Supervisor: [Prof. Kun Qian (钱昆)](https://eecsqian.com/) 
 
