@@ -12,7 +12,7 @@ Education
 ======
 * Bachelor of Engineering, [Xinjiang University (XJU)](https://www.xju.edu.cn/), 2020 - 2024
   * Cyberspace Security 
-* Master Student, [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), 2024 to data (Admission without entrance exam)
+* Master Student, [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), 2024 to date (Admission without entrance exam)
   * Intelligent Science and Technology
   * Supervisor: [Prof. Kun Qian (钱昆)](https://eecsqian.com/) 
 
