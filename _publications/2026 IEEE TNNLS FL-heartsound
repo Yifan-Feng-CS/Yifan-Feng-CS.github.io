@@ -1,14 +1,4 @@
 ---
-title: "Federated Prototype Learning for Cardiovascular Diseases Recognition under Non-independent and Non-identically Distributed Heart Sounds"
-collection: publications
-category: manuscripts
-permalink: /publication/2026-tnnls-federated-prototype-learning
-excerpt: "IEEE Transactions on Neural Networks and Learning Systems, 2026."
-date: 2026-01-01
-venue: "IEEE Transactions on Neural Networks and Learning Systems"
-publication: "IEEE Transactions on Neural Networks and Learning Systems"
-paperurl: ""
-citation: "Yifan Feng, Wanyong Qiu, Haojie Zhang, Ruobing Li, Yi Chang, Kun Qian*, Bin Hu*, Björn W. Schuller, and Yoshiharu Yamamoto, \"Federated Prototype Learning for Cardiovascular Diseases Recognition under Non-independent and Non-identically Distributed Heart Sounds\", IEEE Transactions on Neural Networks and Learning Systems, pp. 1–14, 2026. SCIE, 中科院1区Top."
+title: "[SPE] **Enze Yu**, Haipeng Dai, Haihan Zhang, Zhenzhe Zheng, Jun Zhao, Guihai Chen. Prototype-based collaborative learning in UAV-assisted edge computing networks, Software: Practice and Experience (SPE), 2024. *(CCF-B)*"
+paperurl: '/files/paper5.pdf'
 ---
-
-This paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems.
