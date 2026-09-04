@@ -15,7 +15,7 @@ Education
 * Master Student, [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), 2024.09 - 2026.06 (Admission without entrance exam)
   * Intelligent Science and Technology
   * Supervisor: [Prof. Kun Qian (钱昆)](https://eecsqian.com/)
-* PH.D. Student, [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), 2026.09 to date (Jioned Study of Master and Doctoral Degree)
+* PH.D. Student, [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), 2026.09 to date (Jioned study of Master and Doctoral degree)
   * Computer Science and Technology
   * Supervisor: [Prof. Kun Qian (钱昆)](https://eecsqian.com/)
     
