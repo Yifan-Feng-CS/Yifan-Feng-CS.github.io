@@ -10,11 +10,15 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Engineering, [Xinjiang University (XJU)](https://www.xju.edu.cn/), 2020 - 2024
+* Bachelor of Engineering, [Xinjiang University (XJU)](https://www.xju.edu.cn/), 2020.09 - 2024.06
   * Cyberspace Security 
-* Master Student, [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), 2024 to date (Admission without entrance exam)
+* Master Student, [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), 2024.09 - 2026.06 (Admission without entrance exam)
   * Intelligent Science and Technology
-  * Supervisor: [Prof. Kun Qian (钱昆)](https://eecsqian.com/) 
+  * Supervisor: [Prof. Kun Qian (钱昆)](https://eecsqian.com/)
+* PHD Student, [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), 2026.09 to date (Jioned Study of Master and Doctoral Degree)
+  * Computer Science and Technology
+  * Supervisor: [Prof. Kun Qian (钱昆)](https://eecsqian.com/)
+    
 
 Internship Experience
 ======
