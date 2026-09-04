@@ -1,6 +1,16 @@
 ---
-title: "[JBHI] Wanyong Qiu, Yifan Feng, Yuying Li, Yi Chang, Kun Qian*, Bin Hu*, Yoshiharu Yamamoto, and Björn W. Schuller, 
+title: "[IEEE TNNLS] Yifan Feng, Wanyong Qiu, Haojie Zhang, Ruobing Li, Yi Chang, Kun Qian*, Bin Hu*, Björn W. Schuller, and Yoshiharu Yamamoto, 
+“Federated Prototype Learning for Cardiovascular Diseases Recognition under Non-independent and Non-identically Distributed Heart Sounds”, 
+IEEE Transactions on Neural Networks and Learning Systems (IF-2026:9.7), pp.1-14, Accept.*(SCIE, 中科院1区Top)*"
+paperurl: ''
+---
+title: "[Information Fusion] Ruobing Li\#, Yifan Feng\#, Lin Shen, Liuxian Ma, Haojie Zhang, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
+“FedVCPL-Diff: A Federated Convolutional Prototype Learning Framework with a Diffusion Model for Speech Emotion Recognition”, 
+Information Fusion (IF-2024:15.5), vol.127, pp.103745, 2026.*(SCIE, 中科院1区Top)*"
+paperurl: ''
+---
+title: "[IEEE JBHI] Wanyong Qiu, Yifan Feng, Yuying Li, Yi Chang, Kun Qian\*, Bin Hu\*, Yoshiharu Yamamoto, and Björn W. Schuller, 
 “Fed-MStacking: Heterogeneous Federated Learning with Stacking Misaligned Labels for Abnormal Heart Sound Detection”, 
-IEEE Journal of Biomedical and Health Informatics (IF-2023: 6.7), vol.28, no.9, pp.5055-5066, 2024.*(SCIE, 中科院1区Top（小类）)*"
+IEEE Journal of Biomedical and Health Informatics (IF-2023: 6.7), vol.28, no.9, pp.5055-5066, 2024.*(SCIE, 中科院1区Top (小类) )*"
 paperurl: ''
 ---
